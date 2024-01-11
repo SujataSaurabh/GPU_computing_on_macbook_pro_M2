@@ -5,4 +5,4 @@ So, I jot down the steps to enable GPU based computations on M2 Macbook Pro.
    ```
       pip3 install tensorflow-metal
    ```
-2. Then try to run the python program `matrix_multiplication.py`. This should work.  The program also checks if GPU is available and accessible to it.  
+2. Then try to run the python program `matrix_multiplication_using_gpu.py`. This should work.  The program also checks if GPU is available and accessible to it.  
